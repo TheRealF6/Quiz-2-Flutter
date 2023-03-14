@@ -1,6 +1,6 @@
 # quiz_2_flutter
 
-*Mohon maaf pak, terlambat upload dikarenakan ada kendala saat mencoba commit ke GitHub*
+* Mohon maaf pak, terlambat push dikarenakan ada kendala saat mencoba push ke GitHub
 
 A new Flutter project.
 
