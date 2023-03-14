@@ -1,5 +1,7 @@
 # quiz_2_flutter
 
+*Mohon maaf pak, terlambat upload dikarenakan ada kendala saat mencoba commit ke GitHub*
+
 A new Flutter project.
 
 ## Getting Started
